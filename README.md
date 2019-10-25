@@ -1,4 +1,1 @@
-# C-Algorithms
-
-Find Roots of a Quardatic Equation
-  
+# C and C++ Algorithms and Problems
